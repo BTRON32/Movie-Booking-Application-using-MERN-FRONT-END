@@ -1,0 +1,7 @@
+@media (max-width:900px) {
+    .navbar1{
+        display: block;
+        max-width: 2000px;
+        min-width: 300px;
+    }
+}

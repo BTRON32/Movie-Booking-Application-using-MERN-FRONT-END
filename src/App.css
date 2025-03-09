@@ -1,0 +1,21 @@
+
+.apply{
+  background-color: #d13232;
+  /* background-color: orangered; */
+  border-radius: 10px;
+  padding: 5px;
+}
+
+.inserted{
+  background-color: #d13232;
+  border-radius: 10px;
+}
+
+.seatbutton{
+  background-color: green;
+}
+
+.disable{
+  pointer-events: none;
+  cursor: not-allowed;
+}
